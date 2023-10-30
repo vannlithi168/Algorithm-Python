@@ -1,11 +1,8 @@
-Certainly! Here's a simple template for a Python algorithm README file:
-
-```markdown
-# Algorithm Name
+# Algorithm with Python
 
 Brief description of the algorithm and its purpose.
 
-## Table of Contents
+## Contents
 
 - [Introduction](#introduction)
 - [Algorithm Explanation](#algorithm-explanation)
